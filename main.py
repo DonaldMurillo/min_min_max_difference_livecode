@@ -28,10 +28,10 @@ def the_difference(my_array):
     return difference
 
 def main():
-    the_array = [15, 22, 84, 14, 88, 23]
-    print(the_highest_value(the_array))
-    print(the_smallest_value(the_array))
-    print(the_difference(the_array))
+    # the_array = [15, 22, 84, 14, 88, 23]
+    # print(the_highest_value(the_array))
+    # print(the_smallest_value(the_array))
+    # print(the_difference(the_array))
     return None
 
 if __name__ == "__main__":
